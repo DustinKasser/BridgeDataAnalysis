@@ -1,4 +1,4 @@
-This code is intended to analyze data frome the files
+This code is intended to analyze data from the files
 board_results.csv
 HandID,ContractLevel,TrumpSuit,Doubled,Direction,TricksTaken
 hands.csv
