@@ -1,6 +1,8 @@
 This code is intended to analyze data from the files
+
 board_results.csv
 HandID,ContractLevel,TrumpSuit,Doubled,Direction,TricksTaken
+
 hands.csv
 HandID,NS,NH,ND,NC,ES,EH,ED,EC,SS,SH,SD,SC,WS,WH,WD,WC
 
