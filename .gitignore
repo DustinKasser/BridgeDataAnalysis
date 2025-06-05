@@ -1,0 +1,11 @@
+.venv
+__pycache__
+bridge_data
+nf_offset_data
+prelim_data
+aggregator.py
+empirical_bayesian.py
+nt_offset_model.py
+test.py
+variance.py
+.idea
